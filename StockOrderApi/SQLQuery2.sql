@@ -1,0 +1,7 @@
+SELECT TOP (1000) [Id]
+      ,[Name]
+      ,[SKU]
+      ,[Price]
+      ,[StockQuantity]
+      ,[CategoryId]
+  FROM [StockOrderDb].[dbo].[Products]

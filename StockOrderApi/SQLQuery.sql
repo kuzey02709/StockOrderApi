@@ -1,0 +1,6 @@
+SELECT TOP (1000) [Id]
+      ,[CompanyName]
+      ,[ContactName]
+      ,[Email]
+      ,[Phone]
+  FROM [StockOrderDb].[dbo].[Customers]
